@@ -1,4 +1,3 @@
 # klusbedrijfcordes.github.io
 
-### Website voor klusvbedrijf cordes
-
+### Website voor Klusbedrijf Cordes
