@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Voor onderhoud schuurdeur
+subtitle: De voor- foto van onderhoud op schuurdeur van een eensgezinswoning
 image: assets/img/portfolio/05-full.jpg
-alt: 
+alt:
 
 caption:
-  title: Southwest
-  subtitle: Website Design
+  title: Voor onderhoud schuurdeur
+  subtitle: De voor- foto van onderhoud op schuurdeur van een eensgezinswoning
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Een gezellige eensgezinswoning in Gelderland, waarvan wij het gehele onderhoud verzorgt hebben
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
 
+- Datum: Juni 2025
+- Klant: Eensgezinswoning voor- foto schuurdeur

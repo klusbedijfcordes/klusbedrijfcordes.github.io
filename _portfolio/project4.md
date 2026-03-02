@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Eensgezinswoning
+subtitle: Onderhoud op een eensgezinswoning.
 image: assets/img/portfolio/04-full.jpg
-alt: 
+alt: Onderhoud op een eensgezinswoning.
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Eensgezinswoning
+  subtitle: Onderhoud op een eensgezinswoning.
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Een gezellige eensgezinswoning in Gelderland, waarvan wij het gehele onderhoud verzorgt hebben.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
 
+- Datum: Juni 2025
+- Klant: Eensgezinswoning

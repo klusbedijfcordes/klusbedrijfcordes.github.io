@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Na onderhoud schuurdeur
+subtitle: De na- foto van onderhoud op schuurdeur van een eensgezinswoning
 image: assets/img/portfolio/06-full.jpg
-alt: 
+alt:
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: Na onderhoud schuurdeur
+  subtitle: De na- foto van onderhoud op schuurdeur van een eensgezinswoning
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Een gezellige eensgezinswoning in Gelderland, waarvan wij het gehele onderhoud verzorgt hebben
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
 
+- Datum: Juni 2025
+- Klant: Eensgezinswoning na- foto schuurdeur

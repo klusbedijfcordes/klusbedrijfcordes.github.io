@@ -62,7 +62,7 @@ en: &DEFAULT_EN
       #   alt:
       #   # you can enforce the alignment
       #   align: right
-    end: "Binnenkort aan de slag? Wij helpen graag!"
+    # end: "Binnenkort aan de slag? Wij helpen graag!"
 
   about:
     title: "Over ons"
@@ -126,22 +126,22 @@ en: &DEFAULT_EN
       #       icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Offerte aanvragen"
+    text: "Vraag een offerte aan voor al uw schilder- en kluswerk. Neem contact op voor een afspraak."
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
+    name: "Naam*"
+    name-validation: "Vul uw naam in."
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    email-validation: "Vul uw email adres in."
+    phone: "Telefoonnummer"
+    phone-validation: "Vul uw telefoonnummer in."
+    message: "Bericht*"
+    message-validation: "Vul uw bericht in."
+    subject: "Offerte aanvraag"
+    submit: "Verstuur offerte"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Privacyverklaring"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
