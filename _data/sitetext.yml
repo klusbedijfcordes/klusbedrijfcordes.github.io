@@ -89,8 +89,8 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "MEDEWERKERS"
-    text: "Gedreven door passie voor het vak en oog voor detail"
+    title: "Wie ben ik?"
+    text: "Gedreven door passie voor het vak en oog voor detail, werk ik elke dag met plezier aan mooi en duurzaam schilderwerk"
     subtext:
     section: team
     people:
