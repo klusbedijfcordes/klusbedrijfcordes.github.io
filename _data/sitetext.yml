@@ -96,7 +96,7 @@ en: &DEFAULT_EN
     people:
       - name: "Puk Cordes"
         role: "Schilder"
-        image: assets/img/portfolio/01-full.jpg
+        image: assets/img/timeline/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
