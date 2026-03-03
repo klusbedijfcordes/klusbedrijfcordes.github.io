@@ -21,10 +21,13 @@ en: &DEFAULT_EN
     text: "Schilderwerk en schilder gerelateerde werkzaamheden."
     list:
       - title: "Binnen schilderwerk"
+        icon: "fas fa-paint-roller"
         desc: "Muren en plafonds schilderen, behangen en onderhoud in uw woning of bedrijfspand."
       - title: "Buiten schilderwerk"
+        icon: "fas fa-paint-brush"
         desc: "Gevels, kozijnen en houtwerk schilderen en onderhouden."
       - title: "Offerte op maat"
+        icon: "fas fa-file-invoice"
         desc: "Vrijblijvende offerte voor al uw schilder- en kluswerk. Neem contact op voor een afspraak."
 
   portfolio:
