@@ -42,7 +42,7 @@ en: &DEFAULT_EN
     events:
       - title: "Even voorstellen"
         year: "2026"
-        desc: "Mijn naam is Puk en ik werk elke dag met plezier aan mooi en duurzaam schilderwerk"
+        desc: "Gedreven door passie voor het vak en oog voor detail, werk ik elke dag met plezier aan mooi en duurzaam schilderwerk"
         image: assets/img/timeline/1.jpg
         alt:
       # - title: "An Agency is Born"
@@ -65,28 +65,37 @@ en: &DEFAULT_EN
     # end: "Binnenkort aan de slag? Wij helpen graag!"
 
   about:
-    title: "Over ons"
+    title: "Klusbedrijf Cordes"
     text: "Wie zijn wij?"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: |
+      Ons schildersbedrijf wordt gedreven door passie voor het vak en oog voor detail.
+      Wij streven ernaar om altijd hoogwaardig en strak schilderwerk af te leveren, waarbij kwaliteit en duurzaamheid voorop staan.
+      Elk schilderproject wordt met zorg en precisie uitgevoerd, zodat het eindresultaat niet alleen mooi oogt, maar ook technisch perfect in orde is.
+
+      Wij zijn volledig gericht op zowel binnen- als buitenschilderwerk en beschikken over de kennis en ervaring om uiteenlopende werkzaamheden professioneel uit te voeren.
+      Tijdens het werk hanteren wij veilige, nette en georganiseerde werkmethodes, met respect voor uw woning of bedrijfspand.
+
+      Afspraak is bij ons afspraak: het werk wordt altijd volgens planning afgerond.
+      Wij zorgen voor een duidelijke communicatie en een nette, eerlijke afhandeling van betalingen, zodat u met een goed gevoel kunt terugkijken op de samenwerking.
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Wie ben ik?"
