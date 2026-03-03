@@ -34,6 +34,20 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+# Dutch (Netherlands)
+nl-NL:
+  nav:
+    - title: "Diensten"
+      section: services
+    - title: "Portfolio"
+      section: portfolio
+    - title: "Over ons"
+      section: about
+    - title: "Wie ben ik"
+      section: team
+    - title: "Contact"
+      section: contact
+
 # Spanish
 # -------
 es: &DEFAULT_ES
