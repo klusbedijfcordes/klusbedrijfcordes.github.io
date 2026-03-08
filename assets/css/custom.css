@@ -1,0 +1,15 @@
+/* Custom styles for Klusbedrijf Cordes */
+
+.page-title-block {
+  margin-bottom: 40px;
+}
+
+.contact-consent {
+  color: #6c757d !important;
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+.contact-consent p {
+  color: #6c757d !important;
+}

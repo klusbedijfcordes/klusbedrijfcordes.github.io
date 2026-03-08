@@ -151,9 +151,11 @@ en: &DEFAULT_EN
     message-validation: "Vul uw bericht in."
     subject: "Offerte aanvraag"
     submit: "Verstuur offerte"
+    consent: "Door dit formulier te versturen gaat u akkoord met onze [privacyverklaring](/legal/)."
 
   footer:
     legal: "Privacyverklaring"
+    terms: "Algemene voorwaarden"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"

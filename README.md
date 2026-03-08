@@ -15,3 +15,9 @@ to install gems:
 ```
 bundle install
 ```
+
+After editing ccss, contetn or includes:
+
+```
+bundle exec jekyll build
+```
